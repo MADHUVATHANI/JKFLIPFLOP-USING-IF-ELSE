@@ -91,10 +91,10 @@ endmodule
 ```
 
 ## RTL LOGIC FOR FLIPFLOPS:
-![323144138-4806389b-ba40-463a-b1d4-05eaf26bafc8](https://github.com/MADHUVATHANI/JKFLIPFLOP-USING-IF-ELSE/assets/149986415/4d92bc1d-8c3e-4c20-820f-00dc1ae57a97)
+![322953685-418e5108-711c-4478-b861-cfadf8365284](https://github.com/MADHUVATHANI/JKFLIPFLOP-USING-IF-ELSE/assets/149986415/4ea7f667-73d2-4220-aa06-3f9b1b348e12)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS:
-![323144001-8d1fdc78-5466-4941-a0d0-ac8c0af09d65](https://github.com/MADHUVATHANI/JKFLIPFLOP-USING-IF-ELSE/assets/149986415/ee7bf0a2-ba9d-4a67-ab32-39c52c4e1fae)
+![322953710-cb4ab929-d96f-4eeb-959d-12125bd4f42f](https://github.com/MADHUVATHANI/JKFLIPFLOP-USING-IF-ELSE/assets/149986415/d68c4b34-9b3a-4496-89be-e8559d57649a)
 
 ## RESULTS:
 Thus the program to implement a JK flipflop using verilog and validating their functionality using their functional tables is successfully completed.
